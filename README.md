@@ -6,4 +6,4 @@ Program wzorowany na grze „Tetris”. Przesuwające się w dół elementy o r�
 
 _Okno programu_
 
-![](http://imgup.pl/di/ZW5G/tet.jpg)
+![Alt text](/img/gameplay.jpg?raw=true "GamePlay")
